@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(184, 160, 164, 0.404);
+}
+
+#play-game-container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 90%;
+    border: 5px, solid, green;
+    background-color: lightblue;
+}
